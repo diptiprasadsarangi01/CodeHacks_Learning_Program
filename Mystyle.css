@@ -261,7 +261,7 @@ nav{
     box-sizing: border-box;
     min-height: 90vh;
     position: relative;
-    background-image: url(img/damian-zaleski-RYyr-k3Ysqg-unsplash.jpg);
+    background-image: url( damian-zaleski-RYyr-k3Ysqg-unsplash.jpg);
     background-size: cover;
     background-attachment: fixed;
     display: flex;
@@ -352,7 +352,7 @@ nav{
 }
 
 .blank .img {
-    background: url(img/Pasport.jpeg);
+    background: url( Pasport.jpeg);
     background-size: cover;
     height: 75vh;
     width: 31vw;
